@@ -1,0 +1,1567 @@
+<resources>
+    <string name="app_name">Himnario EAV</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="_0">0</string>
+
+    <string name="him_1">
+        1
+        \n¡Gloria, gloria dad al Padre!
+        \n¡Gloria, gloria al Hijo dad!
+        \n¡Al Espíritu dad gloria!
+        \n¡Al Tres-Uno, ¡gloria dad!
+        \n
+        \nCORO
+        \n¡Alabadle! ¡Alabadle!
+        \n¡Alabad al Triuno Dios!
+        \n¡Dadle gloria! Dadle gloria!
+        \n¡Maravillas nos ha hecho Dios!
+        \n
+        \n2
+        \nLo que el Padre se propuso,
+        \nCristo el Hijo realizó,
+        \nEl Espíritu lo imparte,
+        \n¡Alabad al Triuno Dios!
+        \n
+        \nCORO
+        \n¡Alabadle! ¡Alabadle!
+        \n¡Alabad al Triuno Dios!
+        \n¡Dadle gloria! Dadle gloria!
+        \n¡Maravillas nos ha hecho Dios!
+    </string>
+
+    <string name="him_2">
+        1
+        \nAl Dios que emana bendición
+        \nToda criatura alabad;
+        \n¡Al Padre, Hijo, Espíritu
+        \nHuestes del cielo adorad!
+        \n
+        \n2
+        \n¡Load al Padre, el manantial;
+        \nHonrad al Hijo, el canal,
+        \nGloria al Espíritu que da
+        \nGrata porción: la Trinidad!
+    </string>
+
+    <string name="him_3">
+        1
+        \n¡Santo, Santo, Santo! ¡Dios omnipotente!
+        \nSiempre Te daremos loores con fervor.
+        \n¡Santo, Santo, Santo, justo y compasivo!
+        \n¡El Dios Triuno eres, excelso Creador!
+        \n
+        \n2
+        \n¡Santo, Santo, Santo! Hoy tus redimidos,
+        \nY ángeles a una proclaman Tu loor.
+        \nAntes que formaras el cielo y la tierra
+        \nEras, siempre eres, serás siempre Señor.
+        \n
+        \n3
+        \n¡Santo, Santo, Santo! A los pecadores,
+        \nContemplar Tu gloria nos llena de temor.
+        \nSólo Tú eres Santo y el único perfecto,
+        \nEn poder, pureza y en todo Tu amor.
+        \n
+        \n4
+        \n¡Santo, Santo, Santo! ¡Dios omnipotente!
+        \nTus obras alaban Tu nombre con fervor.
+        \n¡Santo, Santo, Santo, justo y compasivo!
+        \n¡El Dios Triuno eres, excelso Creador!
+    </string>
+
+    <string name="him_4">
+        1
+        \nPadre nuestro, te adoramos
+        \nComo hijos de Tu grey;
+        \nEscogidos en Tu Cristo
+        \nSomos santos hoy en Él.
+        \n¡Te adoramos! ¡Te adoramos!
+        \n¡Abba Padre! A proclamar.
+        \n¡Te adoramos! ¡Te adoramos!
+        \n¡Abba Padre! A proclamar.
+        \n
+        \n2
+        \nHijo eterno, te adoramos,
+        \nOh, Cordero fiel de Dios;
+        \nAnte el trono nos postramos,
+        \nPues trajiste redención.
+        \nAdoramos, adoramos,
+        \nAl Cordero que murió.
+        \nAdoramos, adoramos,
+        \nAl Cordero que murió.
+        \n
+        \n3
+        \nTres en Uno, Te alabamos,
+        \n Padre, Hijo, Espíritu;
+        \nPor la herencia que gozamos, Bajo Tu radiante luz.
+        \n¡Te adoramos! ¡Te adoramos!
+        \n¡Con inmensa gratitud!
+        \n¡Te adoramos! ¡Te adoramos!
+        \n¡Con inmensa gratitud!
+    </string>
+
+    <string name="him_5">
+        1
+        \nOh Padre, eterno Dios Tú eres
+        \nEl increado gran YO SOY;
+        \nTú el Anciano de los días,
+        \nPor las edades hasta hoy.
+        \n
+        \n2
+        \nEternamente Dios Tú eres,
+        \nDe espacio y tiempo más allá;
+        \nLa plenitud de lo eterno
+        \nSin un principio y sin final.
+        \n
+        \n3
+        \nLa fuente eterna, Tú de todo,
+        \nAun antes de los cielos, Tú;
+        \nDe los primeros, el primero,
+        \nY más que todos en virtud.
+        \n
+        \n4
+        \nLa vida eres que perdura,
+        \nNo tienes fin de edad a edad;
+        \nTú sobrevives para siempre,
+        \nDespués del último Tú estás.
+        \n
+        \n5
+        \nEl Alfa, eres el primero,
+        \nLa Omega que viene al final;
+        \nPrincipio y fin, el todo Tú eres,
+        \nPerfecto y completo en verdad.
+        \n
+        \n6
+        \nTe alabamos, oh Eterno,
+        \nExaltamos Tu infinidad;
+        \nTe alabamos, Inmensurable,
+        \nExaltamos Tu vastedad.
+        </string>
+
+    <string name="him_6">
+        1
+        \nEl verdadero Espíritu,
+        \nPadre santo eres Tú;
+        \nTe adoramos en verdad
+        \nEn nuestro espíritu.
+        \n
+        \n2
+        \nFormaste nuestro espíritu
+        \nPara adorarte a Ti,
+        \nY con Tu Espíritu uno ser
+        \nEn armonía así.
+        \n
+        \n3
+        \nVino en el Hijo el Padre Dios,
+        \nEl Hijo Espíritu es,
+        \nLlegando a nuestro espíritu,
+        \n¡Qué gracia a nuestro ser!
+        \n
+        \n4
+        \nPalabra eterna Tu Hijo es,
+        \nEspíritu también;
+        \nRenueva nuestro espíritu,
+        \nSu vida infunde en él.
+        \n
+        \n5
+        \nTu Espíritu en el nuestro está,
+        \nDa testimonio allí,
+        \nQue somos por Tu Espíritu
+        \nTus hijos hoy aquí.
+        \n
+        \n6
+        \nNos guía hoy Tu Espíritu
+        \nPara seguirle en paz;
+        \nEspirituales nos hará
+        \nLa vida que Él nos da.
+        \n
+        \n7
+        \nTu Espíritu al nuestro entró
+        \nPara adorarte así;
+        \nLibramos nuestro espíritu
+        \nHasta expresarte a Ti.
+        \n
+        \n8
+        \nTe alabamos, Padre Dios,
+        \nEspíritu eres Tú;
+        \nTe adoramos en verdad
+        \nEn nuestro espíritu.
+        </string>
+
+    <string name="him_7">
+        1
+        \n¡Fuente de vida eres, oh Dios!
+        \n¡Cuán libre es Tu caudal!
+        \n¡Como agua viva es Tu fluir,
+        \nHasta la eternidad!
+        \n
+        \n2
+        \nFluiste en el Hijo en amor,
+        \nEntre la humanidad;
+        \nHoy fluyes como Espíritu,
+        \nCon gracia sin igual.
+        \n
+        \n3
+        \nAunque en pecado y maldad,
+        \nPerdido en confusión,
+        \nMas en Su Hijo Dios nos dio
+        \nLa vida y redención.
+        \n
+        \n4
+        \nTe desairamos sin cesar,
+        \nTe hacemos contristar;
+        \nMas vienes como Espíritu,
+        \nTu vida a todos dar.
+        \n
+        \n5
+        \nMezclado en el Hijo estás,
+        \nComo el Espíritu;
+        \nEn comunión nos ungirás
+        \nPara aumentarte Tú.
+        \n
+        \n6
+        \nFluye el amor del Padre Dios,
+        \nLa gracia de Jesús,
+        \nPara de Dios participar
+        \nPor el Espíritu.
+        \n
+        \n7
+        \nOh Padre, Hijo, Espíritu,
+        \nNos cuidas sin cesar;
+        \nTe adoramos por Tu amor,
+        \nCantando en unidad.
+        </string>
+
+    <string name="him_8">
+        1
+        \nOh Dios invisible, muy sabio, inmortal,
+        \n En luz intangible, oculto y real.
+        \n Bendito, glorioso, por siempre, Señor,
+        \n A Ti, Victorioso, rendimos loor.
+        \n
+        \n2
+        \nConstante, incansable, en gloria y poder,
+        \nGran Rey respetable, supremo en reinar.
+        \nCual sólida roca, justo eres Señor;
+        \nY fuente abundante que fluye amor.
+        \n
+        \n3
+        \nDe toda creación es la vida y autor,
+        \n De todos y todo, el Sustentador.
+        \n Somos como flores, con gloria fugaz,
+        \n Eres inmutable, no cambias jamás.
+        \n
+        \n4
+        \nGlorioso Padre eres, refulgente luz,
+        \n No osan, tu rostro, los ángeles ver.
+        \n Mas hoy reverentes, te damos loor.
+        \n Humildes, postrados, grandioso Señor.
+        \n
+        \n5
+        \nOh Dios invisible, muy sabio, inmortal,
+        \nEn luz intangible, oculto y real.
+        \nBendito, glorioso, por siempre, Señor;
+        \nA Ti, Victorioso, rendimos loor.
+        </string>
+
+    <string name="him_9">
+        1
+        \nDios de amor y luz Tú eres,
+        \nEn el Hijo vida das;
+        \nAlumbrando y amando,
+        \nTú la vida impartirás.
+        \n
+        \nCORO
+        \n¡Dios de amor! ¡Dios de luz!
+        \nEn el Hijo vida das;
+        \nAlumbrando y amando,
+        \nTú la vida impartirás.
+        \n
+        \n2
+        \nEl amor Tu ser revela,
+        \nY Tus obras por la luz;
+        \nLuz externa, amor interno,
+        \nEl amor conlleva luz.
+        \n
+        \nCORO
+        \n¡Dios de amor! ¡Dios de luz!
+        \nEn el Hijo vida das;
+        \nAlumbrando y amando,
+        \nTú la vida impartirás.
+        \n
+        \n3
+        \nEl amor se expresa en gracia,
+        \nY la luz por la verdad;
+        \nPor Tu luz te conocemos;
+        \nPor Tu amor te haces real.
+        \n
+        \nCORO
+        \n¡Dios de amor! ¡Dios de luz!
+        \nEn el Hijo vida das;
+        \nAlumbrando y amando,
+        \nTú la vida impartirás.
+        \n
+        \n4
+        \nPor Tu amor, en el Calvario,
+        \nTú nos diste vida, oh Dios;
+        \nLa luz hace que a la sangre,
+        \nLe demos aplicación.
+        \n
+        \nCORO
+        \n¡Dios de amor! ¡Dios de luz!
+        \nEn el Hijo vida das;
+        \nAlumbrando y amando,
+        \nTú la vida impartirás.
+        \n
+        \n5
+        \nPor amor, como la vida,
+        \nNos trajiste a comunión;
+        \nEn Tu luz la sangre limpia,
+        \nY nos guarda en comunión.
+        \n
+        \nCORO
+        \n¡Dios de amor! ¡Dios de luz!
+        \nEn el Hijo vida das;
+        \nAlumbrando y amando,
+        \nTú la vida impartirás.
+        \n
+        \n6
+        \nPor la luz y por la sangre
+        \nConocemos hoy la unción;
+        \nFluirá así la vida
+        \nCon la esencia de Tu amor.
+        \n
+        \nCORO
+        \n¡Dios de amor! ¡Dios de luz!
+        \nEn el Hijo vida das;
+        \nAlumbrando y amando,
+        \nTú la vida impartirás.
+        \n
+        \n7
+        \nPor Tu amor somos Tus hijos,
+        \nNuestro Padre eres Tú;
+        \nNos harás igual al Hijo,
+        \nAl cambiar la noche en luz.
+        \n
+        \nCORO
+        \nPor Tu gracia y verdad
+        \nVemos hoy Tu amor y luz;
+        \n¡Sin cesar te alabaremos
+        \nPor mostrarnos tal virtud!
+        </string>
+
+    <string name="him_10">
+        1
+        \nOh Padre, eres inmarcesible,
+        \nNuevo siempre eres Tú,
+        \nComo el rocío siempre estás fresco,
+        \nSiempre viviente, Tú.
+        \n
+        \nCORO
+        \nTú, Padre, eres inmutable,
+        \nNo envejeces jamás;
+        \nSe despliega por las edades,
+        \nTu fresca novedad.
+        \n
+        \n2
+        \nTú eres Dios y Tú eres “nuevo”;
+        \nTodo es viejo sin Ti,
+        \nPero contigo todo es fresco,
+        \nAunque años pasen mil.
+        \n
+        \nCORO
+        \nTú, Padre, eres inmutable,
+        \nNo envejeces jamás;
+        \nSe despliega por las edades,
+        \nTu fresca novedad.
+        \n
+        \n3
+        \nLas bendiciones que nos has dado
+        \nTienen Tu novedad;
+        \nTu pacto, Tus caminos son nuevos,
+        \nY siempre así serán.
+        \n
+        \nCORO
+        \nTú, Padre, eres inmutable,
+        \nNo envejeces jamás;
+        \nSe despliega por las edades,
+        \nTu fresca novedad.
+        \n
+        \n4
+        \nHoy ya Tu nueva creación somos,
+        \nUn nuevo espíritu;
+        \nA diario el corazón nos renuevas,
+        \nLe impartes vida Tú.
+        \n
+        \nTú, Padre, eres inmutable,
+        \nNo envejeces jamás;
+        \nSe despliega por las edades,
+        \nTu fresca novedad.
+        \n
+        \n5
+        \nLa nueva tierra y los nuevos cielos
+        \nNueva ciudad tendrán;
+        \nSupliendo cada mes nuevos frutos,
+        \nPues todo es novedad.
+        \n
+        \nCORO
+        \nTú, Padre, eres inmutable,
+        \nNo envejeces jamás;
+        \nSe despliega por las edades,
+        \nTu fresca novedad.
+        \n
+        \n6
+        \nOh Padre, Tú eres siempre nuevo,
+        \nTodo nuevo es en Ti;
+        \nUn canto eterno y nuevo cantamos,
+        \nNueva alabanza a Ti.
+        \n
+        \nCORO
+        \nTú, Padre, eres inmutable,
+        \nNo envejeces jamás;
+        \nSe despliega por las edades,
+        \nTu fresca novedad.
+        </string>
+
+    <string name="him_11">
+        1
+        \nMi Padre Dios, al contemplar Tus obras,
+        \nLa tierra, el cielo, maravillas son,
+        \nCosas pequeñas, grandes e incontables,
+        \nDe Tu poder son manifestación.
+        \n
+        \nCORO
+        \nTodo mi ser canta alabanza a Ti,
+        \n¡Grande eres Tú! ¡Grande eres Tú!
+        \nY por la eternidad yo cantaré,
+        \n¡Grande eres Tú! ¡Grande eres Tú!
+        \n
+        \n2
+        \nLa gracia de Tu salvación disfruto,
+        \nAl ver al Hijo que enviaste Tú,
+        \nQuien al morir nueva creación nos hizo,
+        \nPara expresar Tu vida en plenitud.
+        \n
+        \nCORO
+        \nTodo mi ser canta alabanza a Ti,
+        \n¡Grande eres Tú! ¡Grande eres Tú!
+        \nY por la eternidad yo cantaré,
+        \n¡Grande eres Tú! ¡Grande eres Tú!
+        \n
+        \n3
+        \nCuando en la iglesia en comunión bendita,
+        \nVeo millones con Tu vida hoy;
+        \nEdificados como Tu morada
+        \nPara expresar Tu plenitud, mi Dios.
+        \n
+        \nCORO
+        \nTodo mi ser canta alabanza a Ti,
+        \n¡Grande eres Tú! ¡Grande eres Tú!
+        \nY por la eternidad yo cantaré,
+        \n¡Grande eres Tú! ¡Grande eres Tú!
+        \n
+        \n4
+        \nMientras espero el siglo venidero,
+        \nAnhelo la Nueva Jerusalén,
+        \nCon cielos nuevos y una tierra nueva,
+        \nQue expresarán la gloria de Tu ser.
+        \n
+        \nCORO
+        \nTodo mi ser canta alabanza a Ti,
+        \n¡Grande eres Tú! ¡Grande eres Tú!
+        \nY por la eternidad yo cantaré,
+        \n¡Grande eres Tú! ¡Grande eres Tú!
+        </string>
+
+    <string name="him_12">
+        1
+        \n¡Qué amor nos trajo Tu virtud!
+        \n¡Mil gracias, oh Señor!
+        \nPor lo que eres Padre
+        \nDios Te damos hoy loor.
+        \n
+        \n2
+        \nNos revelaste Tu intención
+        \nY eterna voluntad;
+        \nEn el Hijo has brotado ya
+        \nPara cumplir Tu plan.
+        \n
+        \n3
+        \nAl Hijo amado diste Tú;
+        \nVino en amor, murió,
+        \nNos hizo hijos por Su cruz,
+        \nHerederos de Dios.
+        \n
+        \n4
+        \nPor Él Tu vida nuestra es,
+        \nOh, Padre celestial;
+        \nTu mismo ser nos impartió,
+        \nTu esencia divinal.
+        \n
+        \n5
+        \nTu Espíritu al nuestro entró,
+        \nPara “Abba” clamar;
+        \nNos engendró y nos selló,
+        \nY nos transformará.
+        \n
+        \n6
+        \nA Tu Hijo nos conformarás,
+        \nSegún Tu eterno plan;
+        \nA Su imagen nos harás
+        \nPara en Tu gloria entrar.
+        \n
+        \n7
+        \nDurante la transformación,
+        \nGuiándonos estás,
+        \nDe gloria en gloria para así,
+        \nTu obra consumar.
+        \n
+        \n8
+        \nPor tal amor, oh Padre Dios,
+        \n¡Mil gracias damos hoy!
+        \nCon gratitud de corazón,
+        \nA Ti damos loor.
+        </string>
+
+    <string name="him_13">
+        1
+        \n¡Oh, amor de Dios! Tu inmensidad
+        \nNo se podrá jamás contar;
+        \nTraspasa el orbe celestial
+        \nY alcanza hasta el hondo mar.
+        \nAl fracasar el primer par,
+        \nSu Hijo Dios prometió;
+        \nAquel que erró lo perdonó,
+        \nSu amor lo reconcilió.
+        \n
+        \nCORO
+        \n¡Oh amor de Dios! ¡Qué inmenso es!
+        \n¡Qué puro y rico en verdad!
+        \nLos santos cantarán de él
+        \nPor toda la eternidad.
+        \n
+        \n2
+        \nCuando el tiempo quede atrás
+        \nCon todo imperio mundanal,
+        \nY caiga todo trono acá
+        \nY llegue el reino celestial;
+        \nEl gran amor del Redentor
+        \nAún tan fuerte estará,
+        \nY la canción de salvación
+        \nSu pueblo allí cantará.
+        \n
+        \nCORO
+        \n¡Oh amor de Dios! ¡Qué inmenso es!
+        \n¡Qué puro y rico en verdad!
+        \nLos santos cantarán de él
+        \nPor toda la eternidad.
+        \n
+        \n3
+        \nSi fuera tinta todo el mar,
+        \nY todo el cielo un gran papel, Y cada hombre un escritor, Y cada hoja un pincel,
+        \nAl intentar contar Su amor Se vaciaría el mar;
+        \nY ni los cielos con su anchor Podría el rollo abarcar.
+        \n
+        \nCORO
+        \n¡Oh amor de Dios! ¡Qué inmenso es!
+        \n¡Qué puro y rico en verdad!
+        \nLos santos cantarán de él
+        \nPor toda la eternidad.
+        </string>
+
+    <string name="him_14">
+        1
+        \nOh Dios, tan trascendente,
+        \nTan santo eres Tú;
+        \nNadie puede igualarte,
+        \nIncomparable Tú.
+        \nEn todo el universo
+        \nLo más santo eres Tú,
+        \nPor Tu naturaleza,
+        \nImperio y virtud.
+        \n
+        \n2
+        \nTan único y distinto,
+        \nNo sólo justo y puro,
+        \nNo sólo sin defectos,
+        \nMas Tú eres perfección.
+        \nNada puede alcanzarte,
+        \nNada será Tu igual;
+        \nSi algo te reemplaza
+        \nInsulto te será.
+        \n
+        \n3
+        \nExcedes la excelencia,
+        \nPues eres superior;
+        \nNo sólo eres fino,
+        \nMas sin comparación.
+        \nDifieres de los justos;
+        \nNo hay justo como Tú;
+        \nExcelsa es Tu belleza,
+        \nTu fama y virtud.
+        \n
+        \n4
+        \nTu santidad excelsa
+        \nEs nuestro eterno bien;
+        \nPues Tu esencia santa
+        \nLegaste a nuestro ser.
+        \nAun Tu trascendencia
+        \nEs nuestra por la fe.
+        \nMás santos por Tu vida
+        \nSeremos al crecer.
+        \n
+        \n5
+        \nTe adoramos Padre
+        \nHoy por Tu santidad,
+        \nPor Tu naturaleza
+        \nTrascendente y sin par.
+        \nSanta naturaleza,
+        \nDistinta y sin igual,
+        \nPor siempre será nuestra;
+        \nNos santificará.
+        </string>
+
+    <string name="him_15">
+        1
+        \nTú eres fiel, oh Dios, Padre celeste,
+        \n Ni sombra de variación hay en Ti;
+        \n Oh Padre, Tú nunca cambias ni fallas,
+        \n Como has sido, por siempre serás.
+        \n
+        \nCORO
+        \n¡Tú eres fiel, oh Dios! ¡Tú eres fiel, oh Dios!
+        \nCada mañana pruebo Tu merced.
+        \nNada me falta, pues todo provees,
+        \nTú eres fiel, oh Dios, fiel para mí.
+        \n
+        \n2
+        \nVerano, invierno, primavera y siega,
+        \n Sol, luna, estrella y espacio sin fin.
+        \n Estos son los multiformes testigos
+        \n De Tu amor, gracia y fidelidad.
+        \n
+        \nCORO
+        \n¡Tú eres fiel, oh Dios! ¡Tú eres fiel, oh Dios!
+        \nCada mañana pruebo Tu merced.
+        \nNada me falta, pues todo provees,
+        \nTú eres fiel, oh Dios, fiel para mí.
+        \n
+        \n3
+        \nPleno y real perdón, paz permanente,
+        \nY Tu presencia que viene a alentar;
+        \nHoy eres fuerza y mañana la gloria,
+        \nQue con los santos podemos probar.
+        \n
+        \nCORO
+        \n¡Tú eres fiel, oh Dios! ¡Tú eres fiel, oh Dios!
+        \nCada mañana pruebo Tu merced.
+        \nNada me falta, pues todo provees,
+        \nTú eres fiel, oh Dios, fiel para mí.
+        </string>
+
+    <string name="him_16">
+        1
+        \nCuán fidedigno y cuán fiel
+        \nMi Dios Padre eres Tú;
+        \nEl universo y todo en él
+        \nProclaman tal virtud.
+        \n
+        \nCORO
+        \nPor Tu firme fidelidad
+        \nMi Dios te adoro yo;
+        \nFundada en el cielo está,
+        \nSiempre por mí será.
+        \n
+        \n2
+        \nEn Ti no hay mudanza ni
+        \nSombra de variación;
+        \nTal como fuiste eres hoy,
+        \nNo habrá alteración.
+        \n
+        \nCORO
+        \nPor Tu firme fidelidad
+        \nMi Dios te adoro yo;
+        \nFundada en el cielo está,
+        \nSiempre por mí será.
+        \n
+        \n3
+        \nEs Tu Palabra como Tú;
+        \nNo pasará jamás.
+        \nEl cielo y tierra pasarán,
+        \nElla perdurará.
+        \n
+        \nCORO
+        \nPor Tu firme fidelidad
+        \nMi Dios te adoro yo;
+        \nFundada en el cielo está,
+        \nSiempre por mí será.
+        \n
+        \n4
+        \nTu llamamiento y dones, cuán
+        \nIrrevocables son;
+        \nTu gracia y Tu gran merced,
+        \n¡Eterna provisión!
+        \n
+        \nCORO
+        \nPor Tu firme fidelidad
+        \nMi Dios te adoro yo;
+        \nFundada en el cielo está,
+        \nSiempre por mí será.
+        \n
+        \n5
+        \nFiel Tu Palabra es para mí,
+        \nCerteza sin igual;
+        \nPor ella y con Tu salvación
+        \nTengo seguridad.
+        \n
+        \nCORO
+        \nPor Tu firme fidelidad
+        \nMi Dios te adoro yo;
+        \nFundada en el cielo está,
+        \nSiempre por mí será.
+        \n
+        \n6
+        \nSi mi ego me hace desconfiar,
+        \nFiel Tú continuarás;
+        \nToda Palabra cumplirás,
+        \nNegarte no podrás.
+        \n
+        \nCORO
+        \nPor Tu firme fidelidad
+        \nMi Dios te adoro yo;
+        \nFundada en el cielo está,
+        \nSiempre por mí será.
+        \n
+        \n7
+        \nYa que eres fiel para cumplir
+        \nTus promesas en mí,
+        \nMe nutro en Tu fidelidad,
+        \nTomándote hasta el fin.
+        \n
+        \nCORO
+        \nPor Tu firme fidelidad
+        \nMi Dios te adoro yo;
+        \nFundada en el cielo está,
+        \nSiempre por mí será.
+        \n
+        \n8
+        \nAllí en la Santa Ciudad
+        \nDel trono alrededor,
+        \nUn arco iris da señal,
+        \nDe Tu fidelidad.
+        \n
+        \nCORO
+        \nPor Tu firme fidelidad
+        \nMi Dios te adoro yo;
+        \nFundada en el cielo está,
+        \nSiempre por mí será.
+        </string>
+
+    <string name="him_17">
+        1
+        \nPadre santo, Te alabamos
+        \nCon reverente canción;
+        \nSanto eres y excelso,
+        \nDigno de adoración.
+        \n
+        \n2
+        \nPadre, Tú eres amoroso, 5
+        \nJustos Tus caminos son;
+        \nTu naturaleza santa
+        \nNos da a Cristo por porción.
+        \n
+        \n3
+        \nSeparaste pecadores 6
+        \nPor la sangre de Jesús;
+        \nTu verdad nos santifica
+        \nPor su divinal virtud.
+        \n
+        \n4
+        \nPor Tu Espíritu Santo
+        \nNos separas para Ti;
+        \nNuestro espíritu, alma y cuerpo
+        \nSantificarás así.
+        \n
+        \n5
+        \nDe Jesús, la vida santa,
+        \nPor Tu gracia hoy nos das;
+        \nNos harás participantes
+        \nDe Tu misma santidad.
+        \n
+        \nCORO
+        \nCuando en la Ciudad Santa,
+        \nLlenos de Tu santidad,
+        \n“Tú eres santo”, por los siglos
+        \nSiempre se declarará.
+        </string>
+
+    <string name="him_18">
+        1
+        \nPor Tu justicia, Padre Dios,
+        \nTe alabamos a una voz,
+        \nTestificando aquí:
+        \nEl Juez de todos eres Tú,
+        \nSólo en Tu ser hay rectitud,
+        \nNo hay error en Ti.
+        \n
+        \n2
+        \nOh Padre santo, justo Dios,
+        \nTu rectitud al trono dio
+        \nUn fundamento fiel.
+        \nPor Tu justicia reinan ya
+        \nEn Cristo gracia divinal
+        \nY paz en nuestro ser.
+        \n
+        \n3
+        \nPor Tu justicia Él murió,
+        \nAsí Tu Hijo nos ganó,
+        \nLa redención compró.
+        \nAl aplicar tal redención
+        \nEn Cristo hallamos salvación;
+        \nÉl nos justificó.
+        \n
+        \n4
+        \nPara mostrar Tu rectitud
+        \nEn el pasado diste Tú
+        \nPerdón al vil mortal.
+        \nPor Tu justicia exhibes hoy
+        \nLa remisión al pecador
+        \nEn nuestra era actual.
+        \n
+        \n5
+        \nTú juzgarás a todo ser,
+        \nTu rectitud se ha de ver
+        \nPor Cristo el Señor;
+        \nMas ¿qué de Ti nos moverá?
+        \nTu rectitud nos guardará
+        \nCon gracia y amor.
+        \n
+        \n6
+        \nCon Tu justicia al reino das
+        \nEl fundamento de Tu paz,
+        \n¡Cuánta armonía allí!
+        \nSe llenarán de rectitud
+        \nLos cielos y la tierra, Tú
+        \nLo prometiste así.
+        </string>
+
+    <string name="him_19">
+        1
+        \nPor Tu justicia, Padre Dios,
+        \nTe alabamos a una voz,
+        \nTestificando aquí:
+        \nEl Juez de todos eres Tú,
+        \nSólo en Tu ser hay rectitud,
+        \nNo hay error en Ti.
+        \n
+        \n2
+        \nOh Padre santo, justo Dios,
+        \nTu rectitud al trono dio
+        \nUn fundamento fiel.
+        \nPor Tu justicia reinan ya
+        \nEn Cristo gracia divinal
+        \nY paz en nuestro ser.
+        \n
+        \n3
+        \nPor Tu justicia Él murió,
+        \nAsí Tu Hijo nos ganó,
+        \nLa redención compró.
+        \nAl aplicar tal redención
+        \nEn Cristo hallamos salvación;
+        \nÉl nos justificó.
+        \n
+        \n4
+        \nPara mostrar Tu rectitud
+        \nEn el pasado diste Tú
+        \nPerdón al vil mortal.
+        \nPor Tu justicia exhibes hoy
+        \nLa remisión al pecador
+        \nEn nuestra era actual.
+        \n
+        \n5
+        \nTú juzgarás a todo ser,
+        \nTu rectitud se ha de ver
+        \nPor Cristo el Señor;
+        \nMas ¿qué de Ti nos moverá?
+        \nTu rectitud nos guardará
+        \nCon gracia y amor.
+        \n
+        \n6
+        \nCon Tu justicia al reino das
+        \nEl fundamento de Tu paz,
+        \n¡Cuánta armonía allí!
+        \nSe llenarán de rectitud
+        \nLos cielos y la tierra, Tú
+        \nLo prometiste así.
+        </string>
+
+    <string name="him_20">
+        1
+        \nDios y Padre, te adoramos
+        \nPor justicia y equidad;
+        \nNos justificaste en Cristo,
+        \nCondenarnos, ¿quién podrá?
+        \nTú eres fidedigno y justo,
+        \nTu justicia es nuestro bien;
+        \nNo existe en Ti lo injusto,
+        \nSólo Tu justicia fiel.
+        \n
+        \n2
+        \nTodas nuestras transgresiones
+        \nTú pusiste en Jesús;
+        \nÉl cumplió con Tu justicia
+        \nAl llevarlas en la cruz.
+        \nRecibiste recompensa
+        \nCon satisfacción total;
+        \n¡No podrías, Dios tan justo,
+        \nExigirnos algo más!
+        \n
+        \n3
+        \nComo nuestro substituto
+        \nAceptaste a Jesús;
+        \nFue juzgado siendo justo,
+        \n¿Cambiarías de actitud?
+        \nComo prueba de justicia
+        \nA Tu diestra se sentó;
+        \nPues Tus requisitos justos,
+        \nPor completo Él cumplió.
+        \n
+        \n4
+        \nPadre nuestro, por Su sangre
+        \nJesucristo nos legó
+        \nLa justicia inmutable
+        \nPara nuestra protección.
+        \nNos hiciste Tu justicia,
+        \nZarandearnos, ¿quién podrá?
+        \nEn Jerusalén, la nueva,
+        \nTestimonio fiel será.
+        </string>
+
+    <string name="him_21">
+1
+\n¡Oh Dios! En Cristo Tu saber
+\nCentralizado está;
+\n//Lo hiciste para nuestro ser
+\nSabiduría y paz. //
+\n
+\n2
+\nTodo Tu plan en Cristo está;
+\nTu gracia nos da Él,
+\n//Sabiduría y santidad,
+\nPara Tu gloria ser. //
+\n
+\n3
+\nEn Cristo, nuestra rectitud,
+\nSe nos justificó;
+\n//En Cristo, nuestra santidad
+\nNos santifica Dios. //
+\n
+\n4
+\nEs nuestra redención también,
+\nConforme a Tu intención;
+\n//Perfectos hombres nos hará,
+\nLa nueva creación.//
+\n
+\n5
+\nÉl en Tu economía, oh Dios,
+\nSabiduría es;
+\n//Te alabamos hoy por Él,
+\nGlorificándote.//
+\n
+\n6
+\nSe ha visto en Él Tu gran saber,
+\n¡Inescrutable es!
+\n//Mas por nosotros se hallará
+\nMás rica cada vez. //
+</string>
+
+    <string name="him_22">
+1
+\nMisericordia, oh Padre, nos mostraste,
+\n¿Quién como Tú?
+\nDe pecadores fuimos hechos hijos, En Tu amor;
+\nY nos hiciste vasos de merced
+\nY de honra para expresarte, oh Dios.
+\n
+\n2
+\n“Misericordia y no sacrificios”,
+\nQuieres, oh Dios.
+\nMisericordia así ante Tus ojos, Nos alcanzó.
+\nPues no es por correr ni por querer, Sino por Tu misericordia, oh Dios.
+\n
+\n3
+\nMisericordia con amor y gracia
+\nNos diste aquí.
+\nY para siempre en ella habitaremos, Frente a Ti.
+\nPor tal merced Te adoramos, Dios,
+\nAhora y por siempre, Padre, Amén.
+</string>
+
+    <string name="him_23">
+1
+\nDios, por Tu misericordia
+\nTe alabamos sin cesar.
+\nEn flaquezas y fracasos
+\nSu grandeza haces notar.
+\n¡Te adoramos! ¡Te adoramos!
+\n//¡Qué misericordia das!//
+\n
+\n2
+\n¡Oh, qué gran misericordia!
+\n¡Tan extenso y tan capaz!
+\nAunque somos pecadores,
+\nNos alcanza y guardará.
+\nDe esta gran misericordia
+\n//Separarnos, ¿quién podrá?//
+\n
+\n3
+\nPor Tu fiel misericordia
+\n¡Admirable y rico don!
+\nYa Tu redención nos trajo
+\nLa merced de Tu perdón.
+\nSin Su apoyo, sin Su apoyo,
+\n//¿Cómo ganar Tu favor?/
+\n
+\n4
+\n¡Tan inspiradora y dulce
+\nTu misericordia es!
+\nCon paciencia y ternura
+\nNos provee en escasez.
+\n¡La apreciamos! ¡La apreciamos!
+\n//¡Cuán incomparable es!//
+\n
+\n5
+\nPadre, Tu misericordia
+\nNueva y fresca siempre es. Nos rocía cada día,
+\nRefrescando a la vez.
+\n¡La probamos! ¡La probamos!
+\n//¡Tan lozana a nuestro ser!//
+\n
+\n6
+\n¡No cesamos de alabarte
+\nPor Tu gracia y Tu favor!
+\nPues por Tu misericordia
+\nNos preservas en Tu amor.
+\n¡Qué confianza!
+\nQué confianza!
+\n//Tu misericordia da. //
+</string>
+
+    <string name="him_24">
+1 Antes de crear el mundo
+\nNos escogiste, Señor.
+\nTu impactante amor profundo
+\nNos atrajo hacia Jesús.
+\nY en Cristo y en Cristo
+\nFirmes Él nos mantendrá.
+\nFirmes Él nos mantendrá
+\n
+\n2
+\nAunque el mundo siempre cambie
+\nInmutable y nuevo es Dios.
+\nSu amor y pacto, eternos
+\nCon nosotros siempre están.
+\nDe Dios hijos, de Dios hijos
+\nA Su nombre dad loor.
+\nA Su nombre dad loor.
+\n
+\n3
+\nEs la compasión Divina
+\nNuestra gloria y canción;
+\nDe principio a fin tal gloria
+\nConquistó mi corazón.
+\nPor amarnos, por amarnos
+\nDios Su Hijo nos dio,
+\nDios Su Hijo nos dio.
+\n
+\n4
+\nPadre amado te adoramos,
+\nExaltamos Tu amor;
+\nCon Tu Hijo al encontrarnos
+\nEl loor resonará.
+\nDando gloria, dando gloria
+\nAl Cordero y Dios de amor,
+\nAl Cordero y Dios de amor
+</string>
+
+    <string name="him_25">
+1
+\nPadre, antes que la tierra
+\nTú nos viste con amor;
+\nY a Jesús nos ha acercado Su poder constreñidor,
+\nY nos guarda, y nos guarda,
+\nHoy y por siempre jamás,
+\nHoy y por siempre jamás.
+\n
+\n2
+\nEse amor que nos envuelve,
+\nNos otorga su caudal;
+\nY su fuerza nos mantiene
+\nEn reposo celestial.
+\nDios y Padre, Dios y Padre,
+\nFluye a Ti la adoración,
+\nFluye a Ti la adoración.
+\n
+\n3
+\n¡Dios de amor, nuestra alma adora!
+\nPues Tu gracia se verá,
+\nHasta darte las coronas
+\nY Tu nombre en gloria honrar.
+\n¡Alabanzas, alabanzas!
+\n¡A Dios y al Cordero dad!
+\n¡A Dios y al Cordero dad!
+</string>
+
+    <string name="him_26">
+1
+\nOh Padre, te adoramos,
+\nTus hijos en verdad,
+\nLos que por gracia pueden
+\nHoy contemplar Tu faz;
+\nMarcados para gloria
+\nDesde la eternidad,
+\nCon Cristo el buen Amado
+\nTu enfoque eternal.
+\n
+\n2
+\n¿Quién más sino Tú, Padre,
+\nEn Tu Hijo puede dar
+\nTu Espíritu divino:
+\nLa bendición filial?
+\nNos cuentas como propios,
+\nY pronto nos verás
+\nCon Cristo en plena gloria
+\nDelante de Tu faz.
+\n
+\n3
+\nConforme con Tu plan hoy,
+\nMe llamas en amor.
+\nEn redención viniste
+\nA mí: un pecador.
+\nY Tú como el Espíritu
+\nMe vienes a sellar.
+\nSoy Tuyo ahora y siempre;
+\nTu amor he de gozar.
+\n
+\n4
+\n¿Quién puede bendecirme,
+\nSino Tú, oh Señor?
+\nPues Tú te dispensaste
+\nCon vida y en amor.
+\nY cuando en gloria vengas
+\nCon Cristo he de estar,
+\nAsí Tu plan eterno
+\nSe ha de consumar.
+</string>
+
+    <string name="him_27">
+1
+\n¡Abba Padre! Te adoramos,
+\nJuntos Te damos Loor.
+\nBendición es conocerte
+\nY llamarte ¨Abba Pá¨.
+\nEste don gratuito es nuestro,
+\nPor la sangre de Jesús.
+\nY Tu Espíritu confirma:
+\nSomos Tus hijos en luz.
+\n
+\n2
+\nTú, en Cristo nos creaste,
+\nEste es Tu buen placer.
+\nEscogidos en el Hijo
+\nPara Tu vida obtener.
+\nCon amor nos engendraste
+\nMuy valiosos para Ti.
+\nA Tu Hijo, Tu deleite,
+\nNos encomendaste aquí.
+\n
+\n3
+\nAunque en Adán, caídos,
+\nEn el mundo vil, sin Dios.
+\nMas en Cristo acercados,
+\nPor la sangre que vertió.
+\nRedención en Él tenemos
+\nDe pecado y del mal.
+\nCon Él siempre disfrutamos
+\nUna unión viva y real.
+\n
+\n4
+\nEn problemas y dolores,
+\nEn congoja y aflicción.
+\nNada cambia Tus afectos,
+\nNos conduces con amor.
+\nY los santos redimidos
+\nAnte el trono estarán,
+\nPor Tu salvación tan plena,
+\nPor siempre te alabarán.
+</string>
+
+    <string name="him_28">
+1
+\nA Dios sea la gloria, grandezas obró,
+\nAmó tanto al mundo que a Su Hijo nos dio;
+\nRindió Él Su vida, ganó redención,
+\nLa puerta a la vida a todos abrió.
+\n
+\nCORO
+\n¡Alabad al Señor! ¡Tierra, oíd Su voz!
+\n¡Alabad al Señor! ¡Alegraos hoy con Dios!
+\nLleguemos al Padre por Su Hijo Jesús,
+\n¡Y dadle la gloria, por Su obra en la cruz!
+\n
+\n2
+\nOh, qué redención: con Su sangre compró
+\nA cada creyente ¡Promesa de Dios!
+\nSi en Cristo confía el más vil pecador,
+\nPerdón en el acto le otorga el Señor.
+\n
+\nCORO
+\n¡Alabad al Señor! ¡Tierra, oíd Su voz!
+\n¡Alabad al Señor! ¡Alegraos hoy con Dios!
+\nLleguemos al Padre por Su Hijo Jesús,
+\n¡Y dadle la gloria, por Su obra en la cruz!
+\n
+\n3
+\n¡Oh, qué maravillas, las obras de Dios!
+\nHay gran regocijo por Su Hijo Jesús;
+\nMás puro, más bello, más grande será,
+\nCuando le veamos nos transportará.
+\n
+\nCORO
+\n¡Alabad al Señor! ¡Tierra, oíd Su voz!
+\n¡Alabad al Señor! ¡Alegraos hoy con Dios!
+\nLleguemos al Padre por Su Hijo Jesús,
+\n¡Y dadle la gloria, por Su obra en la cruz!
+</string>
+
+    <string name="him_29">
+1
+\nNo nos cansa el cantar la canción eternal:
+\n¡Gloria a Dios, aleluya!
+\nCon espíritu ferviente siempre alabad: ¡Gloria a Dios, aleluya!
+\n
+\nCORO
+\nOh, los hijos del Señor cantarán bella canción;
+\nA la gloria los guiará por Su gracia el Señor;
+\nLuego frente a nuestro Rey todos ellos estarán.
+\n¡Gloria a Dios, aleluya!
+\n
+\n2
+\nEn un éxtasis envuelto de amor redentor:
+\n¡Gloria a Dios, aleluya!
+\nProcuramos por Su gracia darle todo honor:
+\n¡Gloria a Dios, aleluya!
+\n
+\nCORO
+\nOh, los hijos del Señor cantarán bella canción;
+\nA la gloria los guiará por Su gracia el Señor;
+\nLuego frente a nuestro Rey todos ellos estarán.
+\n¡Gloria a Dios, aleluya!
+\n
+\n3
+\nProseguimos a la gloria como ha dicho el Rey,
+\n¡Gloria a Dios, aleluya!
+\nSu belleza esplendorosa pronto se ha de ver.
+\n¡Gloria a Dios, aleluya!
+\n
+\nCORO
+\nOh, los hijos del Señor cantarán bella canción;
+\nA la gloria los guiará por Su gracia el Señor;
+\nLuego frente a nuestro Rey todos ellos estarán.
+\n¡Gloria a Dios, aleluya!
+\n
+\n4
+\nLuego de Su inmensa gracia en feliz canción:
+\n¡Gloria a Dios, aleluya!
+\nCantaremos con gran multitud al Salvador:
+\n¡Gloria a Dios, aleluya!
+\n
+\nCORO
+\nOh, los hijos del Señor cantarán bella canción;
+\nA la gloria los guiará por Su gracia el Señor;
+\nLuego frente a nuestro Rey todos ellos estarán.
+\n¡Gloria a Dios, aleluya!
+</string>
+
+    <string name="him_30">
+1
+\n¡Abba Padre! Congregados
+\nEn el nombre de Jesús;
+\nBendiciones disfrutamos
+\nPor ser hijos hoy de luz.
+\nYa de culpa libertados
+\nPor la sangre del Señor,
+\n¡Abba Padre! Invocamos
+\nPor Tu Espíritu en amor.
+\n
+\n2
+\nPródigos un tiempo fuimos,
+\nAlejados de Tu hogar;
+\nMas Tu gracia recibimos,
+\nRescatándonos del mal.
+\nHoy de salvación vestidos
+\nEn la mesa de Tu amor,
+\nDisfrutamos y disfrutas
+\nLas riquezas del Señor.
+\n
+\n3
+\nComo al pródigo nos diste
+\nBienvenida y perdón.
+\nNos «besaste» y «mataste
+\nEl becerro» por amor.
+\nTú dijiste: «Es necesario
+\nHacer fiesta y disfrutar;
+\nHe hallado al perdido;
+\nMuerto estaba y vive ya».
+\n
+\n4
+\n¡Abba, Padre!, te adoramos,
+\nCon la hueste celestial,
+\nQuien se asombra de nosotros
+\nPor Tu obra divinal.
+\nCuando estén Tus hijos todos
+\nFrente al trono celestial,
+\nEnsalzando allí Tu nombre
+\n¡Abba, Padre! Clamarán.
+</string>
+
+    <string name="him_31">
+1
+\nOh Dios, tu hijo amado
+\nNos invitaste a ver,
+\nEn quien Tú te complaces,
+\nTu voluntad cumplió.
+\nPor darnos tal tesoro
+\nAbriste el corazón,
+\nTu puro amor gozamos,
+\nTenemos salvación.
+\n
+\n2
+\nDios de misericordias,
+\nNos diste tal merced.
+\nTu vida ya tenemos
+\nEn nombre de Jesús;
+\nQue a Ti es como un canto
+\nTan lleno de dulzor,
+\nY en Él estamos libres
+\nDe culpa y temor.
+\n
+\n3
+\nQue Dios no se olvide:
+\nHoy teme el pecador,
+\nMas un completo pago
+\nSu deuda eliminó.
+\n¿Quién más nos libraría?
+\nSólo Su Hijo pagó,
+\nEn la cruz, alto precio,
+\nY así nos rescató.
+\n
+\n4
+\nPara los que creemos
+\nNo tienes más furor.
+\nTemor ya no tenemos,
+\nAl recibir Tu amor.
+\nLos hijos que regresan
+\nTú besas, ropas das;
+\nAl corazón con pena
+\nTu gran amor da paz.
+\n
+\n5
+\nOh, Dios ¿por qué amas tanto
+\nA este vil pecador,
+\nSi he sido tan rebelde,
+\nOdiándote, Señor?
+\n¡Eres maravilloso,
+\nDivino y santo Dios!
+\nUn Dios temible antes,
+\nQue hoy dice: “Tuyo soy”.
+</string>
+
+    <string name="him_32">
+1
+\n¡Te loamos, oh Dios!
+\nPor Tu Hijo de amor,
+\nQuien murió por salvarnos
+\nY al trono ascendió.
+\n
+\nCORO
+\n¡Aleluya! ¡Te alabamos!
+\n¡Cuán grande es Tu amor!
+\n¡Aleluya! ¡Te adoramos!
+\nCon gloria y honor.
+\n
+\n2¡Te loamos, oh Dios!
+\nPor Tu Espíritu,
+\nQue anuló nuestra noche
+\nTrayéndonos luz.
+\n
+\nCORO
+\n¡Aleluya! ¡Te alabamos!
+\n¡Cuán grande es Tu amor!
+\n¡Aleluya! ¡Te adoramos!
+\nCon gloria y honor.
+\n
+\n3
+\nLa gloria y honor
+\nSea al Padre de amor,
+\nQue ofreciendo Su Hijo
+\nNos dio redención.
+\n
+\nCORO
+\n¡Aleluya! ¡Te alabamos!
+\n¡Cuán grande es Tu amor!
+\n¡Aleluya! ¡Te adoramos!
+\nCon gloria y honor.
+\n
+\n4
+\nTe damos loor,
+\nPues nos llena Tu amor Con
+\nel fuego divino
+\nEn el corazón.
+\n
+\nCORO
+\n¡Aleluya! ¡Te alabamos!
+\n¡Cuán grande es Tu amor!
+\n¡Aleluya! ¡Te adoramos!
+\nCon gloria y honor.
+</string>
+
+    <string name="him_33">
+1
+\nTe bendecimos, Padre,
+\nCon gozo celestial,
+\nPues con Tu Hijo Amado
+\nEstá nuestro lugar.
+\nÉl vive como un Hombre
+\nDelante de Tu faz,
+\nEn gloria inmarcesible,
+\nEn Tu amor eternal.
+\n
+\n2
+\nSu Padre y nuestro Padre,
+\nSu Dios y nuestro Dios;
+\nA Ti, el buen Amado,
+\nTe da satisfacción.
+\nCon gozo Él nos lleva
+\nA compartir Tu amor,
+\nEl brillo de Tu rostro,
+\nTu gracia y Tu favor.
+\n
+\n3
+\nTu amor que nos envuelve
+\nJamás se enfriará;
+\nEn Él Tu amor se centra,
+\nY Tu favor nos das.
+\nEn Él Tu amor y gloria
+\nEncuentran su lugar,
+\nY todos Sus hermanos,
+\nTus hijos, dulce hogar.
+</string>
+
+    <string name="him_34">
+1
+\nPadre, a Ti un cántico alzamos;
+\nEn comunión;
+\nEn Tu presencia todos te alabamos,
+\n¡Qué bendición!
+\nEstar en Ti, ¡Qué gracia sin igual!
+\nQue con Tu amado Hijo estamos al par.
+\n
+\n2
+\nLlena de gozo esa radiante escena
+\nDonde se ve
+\nTu amor, oh Dios y Padre, que gozamos
+\nSólo en Él.
+\nReposa así Tu santa calma aquí,
+\nCantamos con Aquel que te ama a Ti.
+\n
+\n3
+\nLevanta alabanza el Hijo al Padre,
+\n¡Qué dulce es!
+\nA Ti nos lleva Él para adorarte, Y
+\nestar con Él;
+\nFue Tu deseo antes de la creación,
+\nCon Tu amado Hijo darnos porción.
+</string>
+
+    <string name="him_35">
+1
+\nOh Dios y Padre, Te damos loor,
+\n¿Quién es tan digno más allá de Ti? Y hoy Tú buscas la adoración
+\nHecha en espíritu y verdad a Ti.
+\n
+\n2
+\nCreaste el mundo por Tu Hijo Jesús,
+\nQue lo sustenta por Su gran poder,
+\nTambién por Él llegamos hasta Ti,
+\niOh, qué motivo para bendecir!
+\n
+\n3
+\nCantando himnos de alabanza a Ti,
+\nCristo en la iglesia liderando está;
+\nCon Sus hermanos, ¡Qué alegría hay!
+\n¡Juntos, en libertad, Te alabarán!
+\n
+\n4
+\n¡Aquí reunidos, uno es el loor!
+\n¡Cuán satisfecho está Tu corazón!
+\nEn este canto guiados por Jesús,
+\nTú siempre tienes Tu habitación.
+</string>
+
+    <string name="him_36">
+1
+\nPadre Dios, Tú eres el manantial
+\nDe la vida que expresamos,
+\nQue en Tu nombre disfrutamos;
+\nPadre Dios, Tú eres el manantial.
+\n
+\nCORO
+\nEn Tu vida, en Tu vida,
+\nEn Tu vida es nuestra unidad.
+\nEn Tu vida, en Tu vida,
+\nEn Tu vida, Padre es la unidad.
+\n
+\n2
+\nTu Palabra santa es rico don,
+\nNos satura con Tu esencia,
+\nDel mundo nos da abstinencia;
+\nTu Palabra, Padre, es rico don.
+\n
+\nCORO
+\nTu Palabra, Tu Palabra,
+\nEs por ella nuestra unidad.
+\nTu Palabra, Tu Palabra,
+\nNos mantiene hoy en unidad.
+\n
+\n3
+\n¡Oh, la gloria del Triuno Dios!
+\n¡Sus benditos hijos somos!
+\nY Su gloria aquí expresamos;
+\n¡Oh, la gloria del Triuno Dios!
+\n
+\nCORO
+\nEn Tu gloria, en Tu gloria,
+\nEn Tu gloria es nuestra unidad.
+\nEn Tu gloria, en Tu gloria,
+\nEn Tu gloria se ve la unidad.<i>actual</i> <b>formatting</b>!
+</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="buscar_himno_por_Estrofa">Buscar Himno\nPor Estrofa</string>
+</resources>
